@@ -19,6 +19,16 @@
    
 ---
 
+## IDIMOAS
+
+| Español | Nativo |
+---------------------
+| Ingles  | Avanzado |
+---------------------
+| Aleman | Principiante |
+-------------------------
+
+
 ### ESTETICISTA
 
 Esteticista altamente capacitada con solidos 
