@@ -10,9 +10,14 @@
 
 :round_pushpin: Barcelona, España
 
+---
+
 ## HABILIDADES
-
-
+1. Uso de equipos
+2. Productos cosmetico
+3. Tecnicos de tratamiento
+   
+---
 
 ### ESTETICISTA
 
@@ -59,6 +64,7 @@ _Esteticista_
 _Esteticista_
 
 + Aplicación de tratamientso de depilacion laser y cera
+
 
 + Masajes terapeuticas y relajantes
 
