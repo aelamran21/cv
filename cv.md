@@ -2,6 +2,7 @@
 ---
 ![text alternatiu](https://media.istockphoto.com/id/182802108/es/foto/desagradable-betty.jpg?s=612x612&w=0&k=20&c=B20e5H5_Low0QsLuCTZlXURgS5BpqmJpr_9GweNAjWk=).
 
+[Acceso rapido Experiencia](###EXPERIENCIA-PROFESIONAL)
 ## CONTACTO
 ---
 :telephone: +12 1234 1234
@@ -24,10 +25,9 @@
 | Español | Nativo |
 |---------|--------|
 | Ingles  | Avanzado |
-|----------|----------|
 | Aleman | Principiante |
 
-
+---
 
 ### ESTETICISTA
 
@@ -74,6 +74,7 @@ _Esteticista_
 _Esteticista_
 
 + Aplicación de tratamientso de depilacion laser y cera
+
 
 
 + Masajes terapeuticas y relajantes
