@@ -19,14 +19,14 @@
    
 ---
 
-## IDIMOAS
+## IDIOMAS
 
 | Español | Nativo |
----------------------
+|---------|--------|
 | Ingles  | Avanzado |
----------------------
+|----------|----------|
 | Aleman | Principiante |
--------------------------
+
 
 
 ### ESTETICISTA
