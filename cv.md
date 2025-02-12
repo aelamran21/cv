@@ -83,6 +83,13 @@ _Esteticista_
 
 ---
 
+```
+p {
+  color: red;
+}
+```
+---
+
 > CURRICULUM VITAE
 
 ---
