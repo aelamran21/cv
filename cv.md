@@ -28,19 +28,20 @@ esteticas y productos cosemticos avanzadas
 
 _Instituto de Belleza y Estetica_
 
-
-:mortar_board: (Universidad)[https://web.ub.edu/es/web/estudis/w/masterpropio-202211813]
+ :mortar_board: [Instiuto](https://web.ub.edu/es/web/estudis/w/masterpropio-202211813)
 
 **Especializacion en Tratamientos Faciales**
 
 _Centro de Fromacion Estetica_
 
+ :mortar_board: [Centro](https://www.mariapadilla.es/)
 
-:mortar_board: (Centro)[https://web.ub.edu/es/web/estudis/w/masterpropio-202211813]
 
 **Diplomada en Procedimientos Esteticos**
 
 _Academia de Dermatologia y Estetica_
+
+:mortar_board: [Academia](https://www.academiacasanova.com/nuestros-centros/cc-academia-casanova-vic/)
 
 ### EXPERIENCIA PROFESIONAL
 
