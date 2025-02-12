@@ -80,3 +80,7 @@ _Esteticista_
 + Masajes terapeuticas y relajantes
 
 + Diseño y ejecucion de programas de belleza
+
+---
+
+> CURRICULUM VITAE
